@@ -1,0 +1,13 @@
+Write a Python program to test whether a passed letter is a vowel or not
+
+Program Console Output 1:
+Enter a character: A
+Letter A is Vowel
+
+Program Console Output 2:
+Enter a character: e
+Letter e is Vowel
+
+Program Console Output 2:
+Enter a character: N
+Letter N is not Vowel
