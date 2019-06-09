@@ -1,0 +1,6 @@
+14.	Sum of n Positive Integers
+Write a python program to sum of the first n positive integers
+
+Program Console Sample 1:
+Enter value of n: 5
+Sum of n Positive integers till 5 is 15
