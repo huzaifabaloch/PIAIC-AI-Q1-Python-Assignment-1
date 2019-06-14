@@ -40,4 +40,4 @@ def digits_sum_of_a_number(number):
 	print("The sum of " + formatted + " is {}".format(digit_add_counter))
 		
 
-digits_sum_of_a_number(292239230937207372903720739)
+digits_sum_of_a_number(29223923090739)
