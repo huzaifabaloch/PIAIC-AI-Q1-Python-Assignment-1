@@ -1,0 +1,7 @@
+13.	BMI Calculator
+Write a Python program to calculate body mass index
+     
+Program Console Sample 1:
+Enter Height in Cm: 180
+Enter Weight in Kg: 75
+Your BMI is 23.15
