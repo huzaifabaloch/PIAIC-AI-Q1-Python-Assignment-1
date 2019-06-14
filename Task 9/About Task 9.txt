@@ -1,0 +1,8 @@
+9.	Triangle area
+Write a Python program that will accept the base and height of a triangle and compute the area
+
+Program Console Sample 1:
+Enter magnitude of Triangle base: 4
+Enter Magnitude of Triangle Height: 4
+Area of a Triangle with Height 4 and Base 4 is 8
+
