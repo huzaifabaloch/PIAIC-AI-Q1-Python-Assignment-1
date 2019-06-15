@@ -1,0 +1,7 @@
+18.	Vowel and Consonants Counter
+Input a text and count the occurrences of vowels and consonant
+
+Program Console Sample 1:
+Enter text: QuickBrownFoxJumpsovertheDog
+Vowels: 9
+Consonants: 19
