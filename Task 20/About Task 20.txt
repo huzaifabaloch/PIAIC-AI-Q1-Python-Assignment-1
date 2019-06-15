@@ -1,0 +1,9 @@
+20.	Count Alphabets, Numbers and Special Characters
+Write a Python program that accepts a string and calculate the number of digits and letters
+
+Program Console Sample 1:
+Enter text: Python 3.2
+Numbers = 2
+Alphabets = 6
+Special Characters = 1
+Spaces = 1 
