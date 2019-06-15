@@ -1,0 +1,9 @@
+Write a program to check whether given input is palindrome or not
+
+Program Console Sample 1:
+Enter text: AHA
+Text AHA is Palindrome
+     
+Program Console Sample 2:
+Enter text: Hello
+Text Hello is not a Palindrome
