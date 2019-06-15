@@ -1,0 +1,11 @@
+     
+17.	Binary to Decimal Converter
+Write a program to convert binary number to Decimal number
+
+Program Console Sample 1:
+Enter a Binary number: 1101
+Decimal Representation of 1101 is 13
+
+Program Console Sample 2:
+Enter a Binary number: 1001
+Decimal Representation of 1001 is 9
